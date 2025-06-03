@@ -1,4 +1,4 @@
-![Screenshot 2025-06-03 150259](https://github.com/user-attachments/assets/0cc123a9-e93a-46ae-9416-e71f57928e64)# 🍽️ Husaini Family Restaurant
+🍽️ Husaini Family Restaurant
 
 A fully responsive restaurant website built with **Next.js** and **TypeScript** showcasing a vibrant, modern, and user-friendly UI for online food ordering. This project demonstrates component-based design, optimized image handling, and clean navigation.
 
@@ -40,11 +40,7 @@ Live Preview : https://restaurant-next-js-mauve.vercel.app/
    git clone https://github.com/your-username/husaini-restaurant.git
    cd husaini-restaurant
 
-   Install dependencies
+   
 
-2.Install dependencies
-npm install
 
-3.Run the dev server
-Run the dev server
 
