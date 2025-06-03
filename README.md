@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🍽️ Husaini Family Restaurant
 
-## Getting Started
+A fully responsive restaurant website built with **Next.js** and **TypeScript** showcasing a vibrant, modern, and user-friendly UI for online food ordering. This project demonstrates component-based design, optimized image handling, and clean navigation.
 
-First, run the development server:
+## 🚀 Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Next.js** – React Framework for Production
+- **TypeScript** – Static typing for JavaScript
+- **CSS Modules / TailwindCSS** – Styling (customizable)
+- **React Icons** – For beautiful UI icons
+- **Responsive Design** – Mobile, tablet, and desktop-friendly
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📸 Preview
+#https://github.com/user-attachments/assets/2af20fbc-30bb-4ddb-9de0-890a8c5f7b1b
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+Live Preview : https://restaurant-next-js-mauve.vercel.app/
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📂 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- 🍛 Dynamic Menu Sections (Starters, Main Course, Desserts, etc.)
+- 🛒 Cart Integration with item count
+- 🔐 Login UI (optional backend integration)
+- 📞 Contact details section
+- 📱 Mobile-First Design
+- 📦 Order Confirmation Flow
+- 📣 Top Banner offers (Free delivery banner)
+- 🎯 Clear navigation: Home | Menu | Orders
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🔧 How to Run Locally
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. **Clone this repo**
+   ```bash
+   git clone https://github.com/your-username/husaini-restaurant.git
+   cd husaini-restaurant
