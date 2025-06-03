@@ -39,3 +39,12 @@ Live Preview : https://restaurant-next-js-mauve.vercel.app/
    ```bash
    git clone https://github.com/your-username/husaini-restaurant.git
    cd husaini-restaurant
+
+   Install dependencies
+
+2.Install dependencies
+npm install
+
+3.Run the dev server
+Run the dev server
+
