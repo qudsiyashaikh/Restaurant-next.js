@@ -27,7 +27,7 @@ Don’t miss this limited-time deal on our Special Chicken Biryani – now at 50
       </div>
       {/* IMAGE CONTAINER */}
       <div className="flex-1 w-full relative md:h-full">
-        <Image src="/offer.jpg!w700wp" alt="" fill className="object-contain" />
+        <Image src="/offer.png" alt="" fill className="object-contain" />
      
       </div>
      
